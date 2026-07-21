@@ -13,6 +13,7 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4?style=flat-square)](#-contributing)
 [![tests](https://img.shields.io/badge/tests-53%20passing-2ea44f?style=flat-square)](okf/scripts/tests)
 [![vibe-coded](https://img.shields.io/badge/vibe--coded-as--is-ff9800?style=flat-square)](#-license)
+[![OKF BundleDex](https://bundledex.net/static-badge.svg)](https://bundledex.net)
 [![BundleDex](https://bundledex.net/badge/okf-knowledge.svg)](https://bundledex.net/bundles/okf-knowledge/)
 
 </div>
